@@ -23,6 +23,11 @@ This project is developed using React.js for the frontend, Node.js and Express f
 The Yoga Club Registration System aims to create an efficient and user-centric platform for yoga enthusiasts to easily register for classes, choose suitable batch timings, and make timely payments.
 The system ensures adherence to age restrictions, batch selection flexibility, and monthly payment options.
 
+
+## ER Diagram:
+
+![WhatsApp Image 2023-12-19 at 9 38 03 PM](https://github.com/Suneet262/Yoga_Classes_Web_App_Frontend/assets/91688938/ace8c26b-4439-4f46-a4a7-3d78ae5705f9)
+
 ## Implemented Features
 
 ### User Registration and Login:
@@ -105,9 +110,6 @@ payment_id (Primary Key)
 registration_id (Foreign Key referencing Registration Table)
 paymentDate
 
-## ER Diagram:
-
-![WhatsApp Image 2023-12-19 at 9 38 03 PM](https://github.com/Suneet262/Yoga_Classes_Web_App_Frontend/assets/91688938/ace8c26b-4439-4f46-a4a7-3d78ae5705f9)
 
 ## Screenshots of the dashboard: 
 
