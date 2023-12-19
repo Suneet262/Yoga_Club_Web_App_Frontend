@@ -28,7 +28,7 @@ const RegistrationForm = () => {
 
     // Make API call to the backend
     try {
-      const response = await axios.post('http://localhost:3001/api/registration/register', formData);
+      const response = await axios.post('https://yoga-club.onrender.com/api/registration/register', formData);
       console.log('Registration successful:', response.data);
       alert('Registration successful!');
     } catch (error) {

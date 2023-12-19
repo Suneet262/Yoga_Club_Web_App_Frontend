@@ -20,7 +20,7 @@ function Login(){
       e.preventDefault();
   
       try {
-        const response = await axios.post('http://localhost:3001/api/auth/login', formData);
+        const response = await axios.post('https://yoga-club.onrender.com/api/auth/login', formData);
         console.log('Login successful:', response.data);
         alert('Login successful!');
         navigate('/register');

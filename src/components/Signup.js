@@ -21,7 +21,7 @@ const Signup = () => {
 
     try {
       // Make API call to the backend for user registration
-      const response = await axios.post('http://localhost:3001/api/auth/', formData);
+      const response = await axios.post('https://yoga-club.onrender.com/api/auth/', formData);
       console.log('Registration successful:', response.data);
       alert('Registration successful!');
       
