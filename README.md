@@ -2,6 +2,10 @@
 
 Hosted URL : https://658195cd81611e099e7b6450--idyllic-douhua-712778.netlify.app/
 
+This project is currently hosted on free tiers of cloud services, utilizing Netlify for the frontend and Render for the backend. 
+The free hosting services of render.com comes with certain limitations, and as a result, services may temporarily spin down during periods of inactivity.
+If you experience any difficulties accessing the site, kindly consider that it could be attributed to these limitations.
+
 ## Yoga Class Web Frontend
 This repository contains the frontend code for the Yoga Club Registration System. 
 The frontend is hosted on Netlify, providing a seamless and responsive user interface. 
